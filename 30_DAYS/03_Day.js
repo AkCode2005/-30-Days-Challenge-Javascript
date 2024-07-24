@@ -32,20 +32,20 @@ if (EligibleForVote >= 18){
 // Activity- 2 (Nested if-Else)
 
 // Task- 3
-// const x = 40
-// const y = 50
-// const z = 20
-// if (x>y) {
-//     console.log("x is larger number than y");
-// } else if (y<z) {
-//     console.log("y is larger number than z");
-// } else if (x<z) {
-//     console.log("x is larger number than y");
-// } else {
-//     console.log("y is larger number than x and y");
-// }
+const X = 40
+const y = 50
+const z = 20
+if (X>y) {
+    console.log("X is larger number than y");
+} else if (y<z) {
+    console.log("y is larger number than z");
+} else if (X<z) {
+    console.log("X is larger number than y");
+} else {
+    console.log("y is larger number than X and y");
+}
 
-//Activity- 3 (Switch case)
+// Activity- 3 (Switch case)
 
 //Task-4
 const Days = 5
@@ -124,6 +124,8 @@ result = (x % 2 !==0) ? "Even" : "Odd"
 console.log(result);
 
 //Activity- 5 (Combining conditions)
+
+//Task-7
 let inputyear = 2025
 
 if (inputyear % 100 === 0 ? inputyear % 400 === 0 : inputyear % 4 === 0) {
