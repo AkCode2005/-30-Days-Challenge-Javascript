@@ -1,4 +1,4 @@
-//Day - 9 (ES6+ Features)
+//Day - 8 (ES6+ Features)
 
 //Activity - 1
 //Task - 1
